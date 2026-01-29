@@ -32,4 +32,4 @@ fbc:
     type: olm.template.basic
   enabled: true
 repo_name: dxoperator
-version: 1.0.77.0
+version: 1.0.77.1
