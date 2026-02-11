@@ -158,6 +158,8 @@ entries:
     skipRange: '>= =1.18.0 < 1.27.2'
     skips:
     - cloud-native-postgresql.v1.27.1
+  - name: cloud-native-postgresql.v1.27.3
+    replaces: cloud-native-postgresql.v1.27.2
   name: stable-v1.27
   package: cloud-native-postgresql
   schema: olm.channel
